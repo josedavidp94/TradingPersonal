@@ -1,0 +1,2 @@
+# TradingPersonal
+Robots de trading
